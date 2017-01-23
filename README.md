@@ -16,3 +16,7 @@ Afterwards, open unity_tcg folder as a project in unity.
 ## Log
 
 Working on the visuals so far, nothing too exciting. Next step is to build out the back face of the cards.
+
+Card back and front faces complete, card rotation working via raycasting method.
+
+
